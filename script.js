@@ -9,7 +9,8 @@
 // }
 
 // enternow.addEventListener("click", logit);
-
+var _ = require('lodash');
+console.log(_);
 function myFunction() {
 	console.log("hello")
 };
